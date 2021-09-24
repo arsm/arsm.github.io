@@ -14,10 +14,10 @@ Research Interests:
 ======
 I have broad interests in computer vision and machine learning with special focus on:
 
-1. Deep Learning: Convolutional Neural Networks, Recurrent Neural Networks, Generative Adversarial Networks, Attention Networks, Capsule Networks.
-2. Computer Vision: Activity Recognition, Image Segmentation, Multi-View Cameras and Feature Extraction, RGB-D Image Analysis, Quality Assessment.
-3. Biometrics and Security: Face Recognition, Ear Recognition, Gait Recognition, Soft-Biometrics, Person Re-Identification, Face Presentation Attack Detection (Anti-Spoofing), Face Morphing Detection, Fraud Detection.
-4. Human Computer Interaction: Autonomous Driving, Brain-Computer Interface, Face, Hand and Body Detection, Tracking, and Pose Estimation, Lip Reading.
+1. <b>Deep Learning</b>: Convolutional Neural Networks; Recurrent Neural Networks; Generative Adversarial Networks; Attention Networks; Capsule Networks.
+2. <b>Computer Vision</b>: Activity Recognition; Image Segmentation; Multi-View Cameras and Feature Extraction; RGB-D Image Analysis; Quality Assessment.
+3. <b>Biometrics and Security</b>: Face, Ear, and Gait Recognition; Soft-Biometrics; Person Re-Identification; Face Presentation Attack Detection (Anti-Spoofing); Face Morphing and Deep Fake Detection; Fraud Detection.
+4. <b>Human Computer Interaction</b>: Autonomous Driving; Brain-Computer Interface; Face, Hand and Body Detection, Tracking, and Pose Estimation; Lip Reading.
 
 
 Getting started
