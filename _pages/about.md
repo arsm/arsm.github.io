@@ -10,6 +10,21 @@ redirect_from:
 
 I have been working as a Senior Computer Vision Data Scientist at [Socure](https://https://www.socure.com/) since May 2021. My current work has focused on digital identity verification and fraud detection from visual signals, including facial images and identification cards, using deep learning. Before moving to industry, I held a postdoctoral fellow position at [Ambient Intelligence & Interactive Machines Laboratory (Aiim Lab)](http://www.aiimlab.com/index.html), ECE Department, Queen's University, Kingston, ON, Canada, where I engaged in theoretical and applied machine learning in computer vision. I received my Ph.D. with distinction and honour from Instituto Superior Técnico, University of Lisbon, Lisbon, Portugal in January 2019. My Ph.D. work focused on exploiting the advances in a multi-view imaging technologies towards developing more advanced security and surveillance systems, notably biometric recognition and Presentation Attack Detection systems, with improved performance.
 
+
+News:
+======
+* I will be acting as a program co-chair of [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)  (August 2021).
+* I am acting as a publicity co-chair of [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
+* One [paper](https://arxiv.org/abs/2104.02424) accepted to ICCV'21 (July 2021).
+* I joined Socure as a senior computer vision data scientist (May 2021).
+* One [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Sepas-Moghaddam_Multi-Perspective_LSTM_for_Joint_Visual_Representation_Learning_CVPR_2021_paper.html) accepted to CVPR'21 (February 2021).
+* One [Paper](https://ieeexplore.ieee.org/abstract/document/9330625) accepted to IEEE Transactions on Information Forensics and Security (February 2021)
+* One [paper](https://ieeexplore.ieee.org/abstract/document/9343707) accepted to IEEE Transactions on Image Processing (January 2021).
+* Two papers [(paper1)](https://ieeexplore.ieee.org/abstract/document/9412517) and [(paper2)](https://ieeexplore.ieee.org/abstract/document/9412514) presentaed at ICPR'21 (January 2021)
+* One [Paper](https://ieeexplore.ieee.org/abstract/document/9249026) accepted to IEEE Transactions on Information Forensics and Security (November 2021)
+* One [paper](https://ieeexplore.ieee.org/abstract/document/9229117) accepted to IEEE Transactions on Biometrics, Behavior, and Identity Science (October 2021)
+
+
 Research Interests:
 ======
 I have broad interests in computer vision and machine learning with special focus on:
@@ -18,22 +33,6 @@ I have broad interests in computer vision and machine learning with special focu
 2. <b>Computer Vision</b>: Activity Recognition; Image Segmentation; Multi-View Cameras and Feature Extraction; RGB-D Image Analysis; Quality Assessment.
 3. <b>Biometrics and Security</b>: Face, Ear, and Gait Recognition; Soft-Biometrics; Person Re-Identification; Face Presentation Attack Detection (Anti-Spoofing); Face Morphing and Deep Fake Detection; Fraud Detection.
 4. <b>Human Computer Interaction</b>: Autonomous Driving; Brain-Computer Interface; Face, Hand and Body Detection, Tracking, and Pose Estimation; Lip Reading.
-
-
-News:
-======
-* I will be acting as a program co-chair of [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)  (August 2021).
-* I am acting as a publicity co-chair of [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
-* One paper accepted to ICCV'21
-* One Paper accepted to CVPR'21
-* I joined Socure as a senior computer vision data scientist
-* One paper accepted to ICCV'21
-* One Paper accepted to CVPR'21
-* One paper accepted to ICCV'21
-* One Paper accepted to CVPR'21
-* One paper accepted to ICCV'21
-* One Paper accepted to CVPR'21
-
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
