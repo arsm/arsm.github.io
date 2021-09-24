@@ -22,8 +22,16 @@ I have broad interests in computer vision and machine learning with special focu
 
 News:
 ======
-* Co-organizing  [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI-22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
-* One paper accepted to 
+* I will be acting as a program co-chair of [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)  (August 2021).
+* I am acting as a publicity co-chair of [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
+* One paper accepted to ICCV'21
+* One Paper accepted to CVPR'21
+* I joined Socure as a senior computer vision data scientist
+* One paper accepted to ICCV'21
+* One Paper accepted to CVPR'21
+* One paper accepted to ICCV'21
+* One Paper accepted to CVPR'21
+* One paper accepted to ICCV'21
 * One Paper accepted to CVPR'21
 
 
