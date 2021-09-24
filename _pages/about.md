@@ -13,7 +13,7 @@ I have been working as a Senior Computer Vision Data Scientist at [Socure](https
 
 News:
 ======
-* I will be acting as a publicity co-chair of [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)  (August 2021).
+* I will be acting as a publicity co-chair of [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)  (September 2021).
 * I am acting as a program co-chair of [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
 * One [paper](https://arxiv.org/abs/2104.02424) accepted to ICCV'21 (July 2021).
 * I joined Socure as a senior computer vision data scientist (May 2021).
