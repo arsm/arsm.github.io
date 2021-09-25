@@ -29,8 +29,8 @@ Thesis (co-)supervision
   * Yasin Bayazidi, BSc, Shamsipour University, 2015
   * Abbas Akbar-Abadi, BSc, Shamsipour University, 2015
   * Hamid Rezaee, BSc, Shamsipour University, 2014
-  * Payam Ahmadvand and Marjan Ramin (Joint Thesis), BSc, Rajaee University, 2014
-  * Mohammad Zarei, BSc, Shamsipour University, 2013
+  * Payam Ahmadvand and Marjan Ramin (Joint Thesis), BSc, Rajaee University, 2012 ([HIS'21](https://ieeexplore.ieee.org/abstract/document/6421331), [MELECON'12](https://ieeexplore.ieee.org/abstract/document/6196573))
+  * Mohammad Zarei, BSc, Shamsipour University, 2012
 
 
    One  accepted to <i>ICCV'21</i> (July 2021).
