@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<font size="-2">
 
 Individuals identified with * are my (co-)supervised Highly Qualified Personnel (HQP)
 
