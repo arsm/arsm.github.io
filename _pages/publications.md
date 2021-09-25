@@ -7,15 +7,15 @@ author_profile: true
 
 Under Review:
 ======
-[J] A. Sepas-Moghaddam, F. Pereira, P. Correia, and A. Etemad “Multi-perspective
-Joint Recurrent Representation Learning”, IEEE Transactions on Pattern Analysis and
+44. [J] A. Sepas-Moghaddam, F. Pereira, P. Correia, and A. Etemad “Multi-perspective
+Joint Recurrent Representation Learning”, Submitted to IEEE Transactions on Pattern Analysis and
 Machine Intelligence (T-PAMI).
 
-[C] M. Kolahdoozi*, A. Sepas-Moghaddam and A. Etemad “Learning Face Structure
-Trees for Expression Recognition”, Conference on Automatic Face and Gesture Recognition.
+43. [C] M. Kolahdoozi*, A. Sepas-Moghaddam and A. Etemad “Learning Face Structure
+Trees for Expression Recognition”, Submitted to Conference on Automatic Face and Gesture Recognition.
 
-[C] L. Khaleghi*, A. Sepas-Moghaddam. J. Marshall, and A. Etemad “MuViHand: Multi-
-View Video-Based 3D Hand Pose Estimation”, IEEE Transactions on Cybernetics.
+42. [C] L. Khaleghi*, A. Sepas-Moghaddam. J. Marshall, and A. Etemad “MuViHand: Multi-
+View Video-Based 3D Hand Pose Estimation”, Submitted to IEEE Transactions on Artificial Intelligence.
 
 Journal Papers:
 ======
@@ -26,23 +26,78 @@ subject to revision to IEEE Transactions on Pattern Analysis and Machine Intelli
 
 40. [J] A. Sepas-Moghaddam, A. Etemad, F. Pereira, and P. Correia “CapsField: Light
 Field-based Face and Expression Recognition in the Wild using Capsule Routing”, IEEE
-Transactions on Image Processing (T-IP), Jan. 2021.
+Transactions on Image Processing (T-IP), Vol. 30, No. 1, Feb. 2021.
 
 39. [J] H. Uppal*,A. Sepas-Moghaddam, M. Greenspan, and A. Etemad “Depth as Attention
 for Face Representation Learning”, IEEE Transactions on Information Forensics and
-Security (T-IFS), Jan. 2021.
+Security (T-IFS),  Vol. 16, No. 2, Jan. 2021.
 
-38. [J] A. Sepas-Moghaddam, A. Etemad, F. Pereira, and P. Correia “Long Short-Term
-Memory with Gate and State Level Fusion for Light Field-Based Face Recognition”,
-IEEE Transactions on Information Forensics and Security (T-IFS), Oct. 2020.
-
-37. [J] A. Sepas-Moghaddam and A. Etemad “View-Invariant Gait Recognition with Attentive
+38. [J] A. Sepas-Moghaddam and A. Etemad “View-Invariant Gait Recognition with Attentive
 Recurrent Learning of Partial Representations”, IEEE Transactions on Biometrics,
-Behavior, and Identity Science (T-BIOM), Oct. 2020.
+Behavior, and Identity Science (T-BIOM), Vol. 3, No. 1, Jan. 2021.
 
-36. [J] G. Zhang*, V. Davoodnia, A. Sepas-Moghaddam, Y. Zhang, and A. Etemad, “Classification
+37. [J] A. Sepas-Moghaddam, P. Correia, K. Nasrollahi, T. Moeslund, and F. Pereira “A
+Double-Deep Spatio-Angular Learning Framework for Light Field based Face Recognition”,
+IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), Vol. 30, No. 12, Dec. 2020.
+
+36. [J] A. Sepas-Moghaddam, A. Etemad, F. Pereira, and P. Correia “Long Short-Term
+Memory with Gate and State Level Fusion for Light Field-Based Face Recognition”,
+IEEE Transactions on Information Forensics and Security (T-IFS), Vol. 16, No. 1, Nov. 2020.
+
+35. [J] G. Zhang*, V. Davoodnia, A. Sepas-Moghaddam, Y. Zhang, and A. Etemad, “Classification
 of Hand Movements from EEG using a Deep Attention-based LSTM Network”,
 IEEE Sensors Journal, Vol. 20, No. 6, Mar. 2020.
 
-35. [J] A. Sepas-Moghaddam, F. Pereira, and P. Correia, “Face Recognition: A Novel
+34. [J] A. Sepas-Moghaddam, F. Pereira, and P. Correia, “Face Recognition: A Novel
 Multi-Level Taxonomy Based Survey”, IET Biometrics, vol. 9, No. 2, Mar. 2020.
+
+33. [J] A. Sepas-Moghaddam, F. Pereira, and P. Correia, “Light Field-Based Face Presentation
+Attack Detection: Reviewing, Benchmarking and One Step Further”, IEEE
+Transaction on Information Forensics and Security (T-IFS), Vol. 13, No. 7, Jul. 2018.
+
+32. [J] A. Sepas-Moghaddam, F. Pereira, and P. Correia, “Ear Recognition in a Light Field
+Imaging Framework: A New Perspective”, IET Biometrics, Vol. 7, No. 3, Apr. 2018.
+
+31. [J] A. Sepas-Moghaddam, L. Malhadas, P. Correia, and F. Pereira, “Face Spoofing
+Detection using a Light Field Imaging Framework”, IET Biometrics, Vol. 7, No. 1,
+Sep. 2017.
+
+30. [J] D. Yazdani, A. Sepas-Moghaddam, A. Dehban and N. Horta, “A Novel Approach
+for Optimization in Dynamic Environments Based on Modified Artificial Fish Swarm
+Algorithm”, International Journal of Computational Intelligence and Applications, Vol.
+15, No. 1, Jun. 2016.
+
+29. [J] M.S. Moin and A. Sepas-Moghaddam (Equal Contribution), “Face Recognition in
+JPEG Compressed Domain: A Novel Coefficient Selection Approach”, Signal, Image
+and Video Processing, Vol. 9, No. 3, Jun. 2015.
+
+28. [J] D. Yazdani, S. Sadeghi, D. Yazdani, A. Sepas-Moghaddam and M. Meybodi “Fish
+Swarm Search Algorithm: A New Algorithm for Global Optimization”, International
+Journal of Artificial Intelligence, Oct. 2015.
+
+27. [J] A. Sepas-Moghaddam and M.S. Moin, “Face Recognition in Color JPEG Compressed
+Domain” International Journal of Biometrics, Vol. 6, No. 3, Aug. 2014.
+
+26. [J] A. Sepas-Moghaddam, D. Yazdani, and J. Shahabi “A Novel Hybrid Image Segmentation
+Method”, Progress in Artificial Intelligence, Vol. 3, No. 1, Apr. 2014.
+
+25. [J] D. Yazdani, B. Naisri, A. Sepas-Moghaddam, M. Meybodi and M. Akbarzadeh,
+“mNAFSA: A Novel Approach for Optimization in Dynamic Environments with Global
+Changes”, Swarm and Evolutionary Computation, Vol 18, Oct. 2014.
+
+24. [J] D. Yazdani, B. Naisri, A. Sepas-Moghaddam, and M. Meybodi, “A Novel Multi-
+Swarm Algorithm for Optimization in Dynamic Environments Based on Particle Swarm
+Optimization”, Applied Soft Computing, Vol.13, No. 4, Apr. 2013.
+
+23. [J] D.Yazdani, B.Nasiri, R.Azizi, A. Sepas-Moghaddam, and M.Meybodi, “Optimization
+in Dynamic Environments Utilizing a Novel Method Based on Particle Swarm
+Optimization”, International Journal of Artificial Intelligence, Vol.11, No. A13, Oct.
+2013.
+
+22. [J] D. Yazdani, B.Saman, A. Sepas-Moghaddam, F. Mohammad-Kazemi, M. Meybodi,
+“A New Algorithm Based on Improved Artificial Fish Swarm Algorithm for Data
+Clustering” International Journal of Artificial Intelligence, Vol.11, No. A13, Oct. 2013.
+
+21. [J] M.S. Moin and A. Sepas-Moghaddam (Equal Contribution), “JPEG Compressed
+Domain Face Recognition: Different Stages and Different Features”, International
+Journal of Information & Communication Technology, Vol.4, No.4, Dec. 2012.
