@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : "Your Sidebar Name"
   avatar           : "Alireza.png"
   bio              : 
   location         : "Kanata, Ontario, Canada"
