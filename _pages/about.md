@@ -16,14 +16,14 @@ News
 * <b>Call for Papers</b>: [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html) call for contribution to novel methods, innovations, and broader implications of self-supervised learning (SSL) for processing human-related data. Paper submission deadline: Friday, November 12, 2021.
 * I will be acting as a publicity co-chair of [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)  (September 2021).
 * I am a program co-chair of [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
-* One [paper](https://arxiv.org/abs/2104.02424) accepted to ICCV'21 (July 2021).
+* One [paper](https://arxiv.org/abs/2104.02424) accepted to <i>ICCV'21</i> (July 2021).
 * I joined Socure as a senior computer vision data scientist (May 2021).
-* One [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Sepas-Moghaddam_Multi-Perspective_LSTM_for_Joint_Visual_Representation_Learning_CVPR_2021_paper.html) accepted to CVPR'21 (February 2021).
-* One [Paper](https://ieeexplore.ieee.org/abstract/document/9330625) accepted to IEEE Transactions on Information Forensics and Security (February 2021)
-* One [paper](https://ieeexplore.ieee.org/abstract/document/9343707) accepted to IEEE Transactions on Image Processing (January 2021).
-* Two papers [(paper1)](https://ieeexplore.ieee.org/abstract/document/9412517) and [(paper2)](https://ieeexplore.ieee.org/abstract/document/9412514) presentaed at ICPR'21 (January 2021)
-* One [Paper](https://ieeexplore.ieee.org/abstract/document/9249026) accepted to IEEE Transactions on Information Forensics and Security (November 2020)
-* One [paper](https://ieeexplore.ieee.org/abstract/document/9229117) accepted to IEEE Transactions on Biometrics, Behavior, and Identity Science (October 2020)
+* One [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Sepas-Moghaddam_Multi-Perspective_LSTM_for_Joint_Visual_Representation_Learning_CVPR_2021_paper.html) accepted to <i>CVPR'21</i> (February 2021).
+* One [Paper](https://ieeexplore.ieee.org/abstract/document/9330625) accepted to <i>IEEE Transactions on Information Forensics and Security</i> (February 2021)
+* One [paper](https://ieeexplore.ieee.org/abstract/document/9343707) accepted to <i>IEEE Transactions on Image Processing</i> (January 2021).
+* Two papers [(paper1)](https://ieeexplore.ieee.org/abstract/document/9412517) and [(paper2)](https://ieeexplore.ieee.org/abstract/document/9412514) presentaed at <i>ICPR'21</i> (January 2021)
+* One [Paper](https://ieeexplore.ieee.org/abstract/document/9249026) accepted to <i>IEEE Transactions on Information Forensics and Security</i> (November 2020)
+* One [paper](https://ieeexplore.ieee.org/abstract/document/9229117) accepted to <i>IEEE Transactions on Biometrics, Behavior, and Identity</i> Science (October 2020)
 
 
 Research interests
