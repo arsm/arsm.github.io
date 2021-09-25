@@ -11,7 +11,7 @@ redirect_from:
 I have been working as a Senior Computer Vision Data Scientist at [Socure](https://https://www.socure.com/) since May 2021. My current work has focused on digital identity verification and fraud detection from visual signals, including facial images and identification cards, using deep learning. Before moving to industry, I held a postdoctoral fellow position at [Ambient Intelligence & Interactive Machines Laboratory (Aiim Lab)](http://www.aiimlab.com/index.html), ECE Department, Queen's University, Kingston, ON, Canada, where I engaged in theoretical and applied machine learning in computer vision. I received my Ph.D. with distinction and honour from Instituto Superior Técnico, University of Lisbon, Lisbon, Portugal in January 2019. My Ph.D. work focused on exploiting the advances in multi-view imaging technologies towards developing more advanced security and surveillance systems, notably biometric recognition and Presentation Attack Detection systems, with improved performance.
 
 
-News:
+News
 ======
 * I will be acting as a publicity co-chair of [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)  (September 2021).
 * I am acting as a program co-chair of [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
@@ -25,7 +25,7 @@ News:
 * One [paper](https://ieeexplore.ieee.org/abstract/document/9229117) accepted to IEEE Transactions on Biometrics, Behavior, and Identity Science (October 2021)
 
 
-Research Interests:
+Research Interests
 ======
 I have broad interests in computer vision and machine learning with special focus on:
 
