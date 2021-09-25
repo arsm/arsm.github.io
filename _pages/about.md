@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I have been working as a senior computer vision data scientist at [Socure](https://https://www.socure.com/) since May 2021. My current work has focused on digital identity verification and fraud detection from visual signals, including facial images and identification cards, using deep learning. Before moving to industry, I held a postdoctoral fellow position at [Ambient Intelligence & Interactive Machines Laboratory (Aiim Lab)](http://www.aiimlab.com/index.html), ECE Department, Queen's University, Kingston, ON, Canada, where I engaged in theoretical and applied machine learning in computer vision. I received my Ph.D. with distinction and honour from Instituto Superior Técnico, University of Lisbon, Lisbon, Portugal in January 2019. My Ph.D. work focused on exploiting the advances in multi-view imaging technologies towards developing more advanced security and surveillance systems, notably biometric recognition and Presentation Attack Detection systems, with improved performance.
+I have been working as a senior computer vision data scientist at [Socure](https://https://www.socure.com/) since May 2021. My current work has focused on digital identity verification and fraud detection from visual signals, including facial images and identification cards, using deep learning. Before moving to industry, I held a postdoctoral fellow position at [Ambient Intelligence & Interactive Machines Laboratory (Aiim Lab)](http://www.aiimlab.com/index.html), ECE Department, Queen's University, Kingston, ON, Canada, where I engaged in theoretical and applied machine learning for computer vision. I received my Ph.D. with distinction and honour from Instituto Superior Técnico, University of Lisbon, Lisbon, Portugal in January 2019. My Ph.D. work focused on exploiting the advances in multi-view imaging technologies towards developing more advanced security and surveillance systems, notably biometric recognition and Presentation Attack Detection systems, with improved performance.
 
 
 News
 ======
 * I will be acting as a publicity co-chair of [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)  (September 2021).
-* I am acting as a program co-chair of [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
+* I am a program co-chair of [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
 * One [paper](https://arxiv.org/abs/2104.02424) accepted to ICCV'21 (July 2021).
 * I joined Socure as a senior computer vision data scientist (May 2021).
 * One [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Sepas-Moghaddam_Multi-Perspective_LSTM_for_Joint_Visual_Representation_Learning_CVPR_2021_paper.html) accepted to CVPR'21 (February 2021).
 * One [Paper](https://ieeexplore.ieee.org/abstract/document/9330625) accepted to IEEE Transactions on Information Forensics and Security (February 2021)
 * One [paper](https://ieeexplore.ieee.org/abstract/document/9343707) accepted to IEEE Transactions on Image Processing (January 2021).
 * Two papers [(paper1)](https://ieeexplore.ieee.org/abstract/document/9412517) and [(paper2)](https://ieeexplore.ieee.org/abstract/document/9412514) presentaed at ICPR'21 (January 2021)
-* One [Paper](https://ieeexplore.ieee.org/abstract/document/9249026) accepted to IEEE Transactions on Information Forensics and Security (November 2021)
-* One [paper](https://ieeexplore.ieee.org/abstract/document/9229117) accepted to IEEE Transactions on Biometrics, Behavior, and Identity Science (October 2021)
+* One [Paper](https://ieeexplore.ieee.org/abstract/document/9249026) accepted to IEEE Transactions on Information Forensics and Security (November 2020)
+* One [paper](https://ieeexplore.ieee.org/abstract/document/9229117) accepted to IEEE Transactions on Biometrics, Behavior, and Identity Science (October 2020)
 
 
 Research Interests
