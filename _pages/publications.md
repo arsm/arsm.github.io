@@ -69,7 +69,7 @@ for Optimization in Dynamic Environments Based on Modified Artificial Fish Swarm
 Algorithm”, International Journal of Computational Intelligence and Applications, Vol.
 15, No. 1, Jun. 2016.
 
-29. [J] M.S. Moin and <b>A. Sepas-Moghaddam</b> (<u>Equal Contribution</b>), “Face Recognition in
+29. [J] M.S. Moin and <b>A. Sepas-Moghaddam</b> (<u>Equal Contribution</u>), “Face Recognition in
 JPEG Compressed Domain: A Novel Coefficient Selection Approach”, Signal, Image
 and Video Processing, Vol. 9, No. 3, Jun. 2015.
 
@@ -100,6 +100,6 @@ Optimization”, International Journal of Artificial Intelligence, Vol.11, No. A
 “A New Algorithm Based on Improved Artificial Fish Swarm Algorithm for Data
 Clustering” International Journal of Artificial Intelligence, Vol.11, No. A13, Oct. 2013.
 
-21. [J] M.S. Moin and <b>A. Sepas-Moghaddam</b> (<u>Equal Contribution</b>), “JPEG Compressed
+21. [J] M.S. Moin and <b>A. Sepas-Moghaddam</b> (<u>Equal Contribution</u>), “JPEG Compressed
 Domain Face Recognition: Different Stages and Different Features”, International
 Journal of Information & Communication Technology, Vol.4, No.4, Dec. 2012.
