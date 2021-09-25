@@ -22,7 +22,7 @@ Thesis (co-)supervision
   * Mojtaba Kolahdoozi, PhD student, Queen’s University
   * Leyla Khaleghi, MASc student, Queen’s University
 * <b>Completed: (Unofficial Co-Supervision)</b>
-  * Hardik Uppal, MASc, Queen’s University, 2021 ([ICCV'21](https://arxiv.org/abs/2104.02424), [paper](https://arxiv.org/abs/2104.02424), [IEEE TIFS'21](https://ieeexplore.ieee.org/abstract/document/9330625), [(ICPR'20)](https://ieeexplore.ieee.org/abstract/document/9412514)) 
+  * Hardik Uppal, MASc, Queen’s University, 2021 ([ICCV'21](https://arxiv.org/abs/2104.02424), [IEEE TIFS'21](https://ieeexplore.ieee.org/abstract/document/9330625), [(ICPR'20)](https://ieeexplore.ieee.org/abstract/document/9412514)) 
   * Gaganjot Singh, MEng, Queen’s University, 2019
   * Daniel Sousa, MASc, University of Lisbon, 2018
 * <b>Completed: (Official Supervision)</b>
