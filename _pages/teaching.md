@@ -22,7 +22,7 @@ Thesis (co-)supervision
   * Mojtaba Kolahdoozi, PhD student, Queen’s University
   * Leyla Khaleghi, MASc student, Queen’s University
 * <b>Completed: (Unofficial Co-Supervision)</b>
-  * Hardik Uppal, MASc, Queen’s University, 2021
+  * Hardik Uppal, MASc, Queen’s University, 2021 ([ICCV'21](https://arxiv.org/abs/2104.02424), [paper](https://arxiv.org/abs/2104.02424), [IEEE TIFS'21](https://ieeexplore.ieee.org/abstract/document/9330625), [(ICPR'20)](https://ieeexplore.ieee.org/abstract/document/9412514)) 
   * Gaganjot Singh, MEng, Queen’s University, 2019
   * Daniel Sousa, MASc, University of Lisbon, 2018
 * <b>Completed: (Official Supervision)</b>
@@ -31,3 +31,8 @@ Thesis (co-)supervision
   * Hamid Rezaee, BSc, Shamsipour University, 2014
   * Payam Ahmadvand and Marjan Ramin (Joint Thesis), BSc, Rajaee University, 2014
   * Mohammad Zarei, BSc, Shamsipour University, 2013
+
+
+   One  accepted to <i>ICCV'21</i> (July 2021).
+* I joined Socure as a senior computer vision data scientist (May 2021).
+* One [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Sepas-Moghaddam_Multi-Perspective_LSTM_for_Joint_Visual_Representation_Learning_CVPR_2021_paper.html)
