@@ -23,6 +23,7 @@ Thesis (co-)supervision
   * Leyla Khaleghi, MASc student, Queen’s University
 * <b>Completed: (Unofficial Co-Supervision)</b>
   * Hardik Uppal, MASc, Queen’s University, 2021
+  * Gaganjot Singh, MEng, Queen’s University, 2019
   * Daniel Sousa, MASc, University of Lisbon, 2018
 * <b>Completed: (Official Supervision)</b>
   * Yasin Bayazidi, BSc, Shamsipour University, 2015
