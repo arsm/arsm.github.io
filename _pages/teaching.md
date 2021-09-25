@@ -7,13 +7,13 @@ author_profile: true
 
 Teaching:
 ======
-*Grad. <b>Deep Learning in Computer Vision (ELEC 874)</b>, Guest Lecturer, Queen’s University, Spring’ 2021.
-*Grad. <b>Artificial Intelligence and Interactive Systems (ELEC 872)</b>, Course Co-Developer and Guest Lecturer, Queen’s University, Fall’ 2020.
-*Grad. <b>Audiovisual Communication, Teaching Assistant</b>, University of Lisbon, Fall’ 2016.
-*Undergrad. <b>Programming in C++</b>, Lecturer, Shamsipour University, Fall’11, Fall’12, Fall’13, Fall’14, Fall’15.
-*Undergrad. <b>Data Structure</b>, Lecturer, Shamsipour University, Spring’12, Spring’13, Spring’14, Spring’ 15.
-*Undergrad. <b>Image Processing</b>, Lecturer, Shamsipour University, Spring’13, Spring’14, Spring’15.
-*Undergrad. <b>Multimedia Systems</b>, Lecturer, Shamsipour University, Fall’14, Fall’15.
+* Grad. <b>Deep Learning in Computer Vision (ELEC 874)</b>, Guest Lecturer, Queen’s University, Spring’ 2021.
+* Grad. <b>Artificial Intelligence and Interactive Systems (ELEC 872)</b>, Course Co-Developer and Guest Lecturer, Queen’s University, Fall’ 2020.
+* Grad. <b>Audiovisual Communication, Teaching Assistant</b>, University of Lisbon, Fall’ 2016.
+* Undergrad. <b>Programming in C++</b>, Lecturer, Shamsipour University, Fall’11, Fall’12, Fall’13, Fall’14, Fall’15.
+* Undergrad. <b>Data Structure</b>, Lecturer, Shamsipour University, Spring’12, Spring’13, Spring’14, Spring’ 15.
+* Undergrad. <b>Image Processing</b>, Lecturer, Shamsipour University, Spring’13, Spring’14, Spring’15.
+* Undergrad. <b>Multimedia Systems</b>, Lecturer, Shamsipour University, Fall’14, Fall’15.
 
 Thesis (Co-)Supervision
 ======
