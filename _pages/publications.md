@@ -10,14 +10,14 @@ Individuals identified with * are my (co-)supervised Highly Qualified Personnel 
 Under Review:
 ======
 44. [J] <b>A. Sepas-Moghaddam</b>, F. Pereira, P. Correia, and A. Etemad “Multi-perspective
-Joint Recurrent Representation Learning”, Submitted to IEEE Transactions on Pattern Analysis and
-Machine Intelligence (T-PAMI).
+Joint Recurrent Representation Learning”, Submitted to <i>IEEE Transactions on Pattern Analysis and
+Machine Intelligence (T-PAMI)</i>.
 
 43. [C] M. Kolahdoozi*, <b>A. Sepas-Moghaddam</b> and A. Etemad “Learning Face Structure
-Trees for Expression Recognition”, Submitted to Conference on Automatic Face and Gesture Recognition.
+Trees for Expression Recognition”, Submitted to <i>Conference on Automatic Face and Gesture Recognition</i>.
 
 42. [C] L. Khaleghi*, <b>A. Sepas-Moghaddam</b>, J. Marshall, and A. Etemad “MuViHand: Multi-
-View Video-Based 3D Hand Pose Estimation”, Submitted to IEEE Transactions on Artificial Intelligence.
+View Video-Based 3D Hand Pose Estimation”, Submitted to <i>IEEE Transactions on Artificial Intelligence</i>.
 
 Journal Papers:
 ======
