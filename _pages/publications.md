@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+html *
+{
+   font-size: 1em !important;
+   color: #000 !important;
+   font-family: Arial !important;
+}
+
 Individuals identified with * are my (co-)supervised Highly Qualified Personnel (HQP)
 
 Under Review:
