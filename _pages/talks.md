@@ -13,10 +13,10 @@ Conference organization
 External dissertation/thesis committee member
 ======
 
-* External Examiner, M.Sc. Defence Exams, (Instituto Superior Técnico, University of Lisbon) 2020– 2021
+* External Examiner, M.Sc. Defence Exams, Instituto Superior Técnico, University of Lisbon, 2020– 2021
 * 4th Year Queens Open House Examiner, ECE Department, 2020
-* Examiner on over 10 B.Sc. Defence Exams, (Shamsipour University) 2013– 2015
-* Examiner on 3 B.Sc. Defence Exams, (Shahid Rajaee University) 2015
+* Examiner on over 10 B.Sc. Defence Exams, Shamsipour University, 2013– 2015
+* Examiner on 3 B.Sc. Defence Exams, Shahid Rajaee University, 2015
 
 
 Reviewer for journals
