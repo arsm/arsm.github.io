@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching:
+Teaching
 ======
 * Grad. <b>Deep Learning in Computer Vision (ELEC 874)</b>, Guest Lecturer, Queen’s University, Spring’ 2021.
 * Grad. <b>Artificial Intelligence and Interactive Systems (ELEC 872)</b>, Course Co-Developer and Guest Lecturer, Queen’s University, Fall’ 2020.

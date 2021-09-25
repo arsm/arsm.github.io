@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-Conference Organization:
+Conference Organization
 ======
 * Publicity co-chair, [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)
 * Program co-chair, [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html).
@@ -19,7 +19,7 @@ External dissertation/thesis committee member:
 * Examiner on 3 B.Sc. Defence Exams, (Shahid Rajaee University) 2015
 
 
-Reviewer for journals:
+Reviewer for journals
 ======
 * Nature Scientific Reports
 * IEEE Transactions on Information Forensics and Security
@@ -35,7 +35,7 @@ Reviewer for journals:
 * Multimedia Tools and Applications (Springer)
 * Cognitive Computation (Springer)
 
-Reviewer for conferences:
+Reviewer for conferences
 ======
 * International Conf. on Computer Vision and Pattern Recognition (CVPR)
 * International Conf. on Systems, Man and Cybernetics (SMC)
