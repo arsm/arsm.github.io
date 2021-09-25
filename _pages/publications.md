@@ -9,26 +9,20 @@ Individuals identified with * are my (co-)supervised Highly Qualified Personnel 
 
 Under Review:
 ======
-44. [J] <b>A. Sepas-Moghaddam</b>, F. Pereira, P. Correia, and A. Etemad “Multi-perspective
-Joint Recurrent Representation Learning”, Submitted to <i>IEEE Transactions on Pattern Analysis and
-Machine Intelligence (T-PAMI)</i>.
+44. [J] <b>A. Sepas-Moghaddam</b>, F. Pereira, P. Correia, and A. Etemad “Multi-perspective Joint Recurrent Representation Learning”, Submitted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</i>.
 
-43. [C] M. Kolahdoozi*, <b>A. Sepas-Moghaddam</b> and A. Etemad “Learning Face Structure
-Trees for Expression Recognition”, Submitted to <i>Conference on Automatic Face and Gesture Recognition</i>.
+43. [C] M. Kolahdoozi*, <b>A. Sepas-Moghaddam</b> and A. Etemad “Learning Face Structure Trees for Expression Recognition”, Submitted to <i>Conference on Automatic Face and Gesture Recognition</i>.
 
-42. [C] L. Khaleghi*, <b>A. Sepas-Moghaddam</b>, J. Marshall, and A. Etemad “MuViHand: Multi-
-View Video-Based 3D Hand Pose Estimation”, Submitted to <i>IEEE Transactions on Artificial Intelligence</i>.
+42. [C] L. Khaleghi*, <b>A. Sepas-Moghaddam</b>, J. Marshall, and A. Etemad “MuViHand: Multi-View Video-Based 3D Hand Pose Estimation”, Submitted to <i>IEEE Transactions on Artificial Intelligence</i>.
 
 Journal Papers:
 ======
 
-41. [J] <b>A. Sepas-Moghaddam</b> and A. Etemad “Deep Gait Recognition: A Review”, Accepted
-subject to revision to IEEE Transactions on Pattern Analysis and Machine Intelligence
-(T-PAMI).
+41. [J] <b>A. Sepas-Moghaddam</b> and A. Etemad “Deep Gait Recognition: A Review”, Accepted subject to revision to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</i>.
 
 40. [J] <b>A. Sepas-Moghaddam</b>, A. Etemad, F. Pereira, and P. Correia “CapsField: Light
-Field-based Face and Expression Recognition in the Wild using Capsule Routing”, IEEE
-Transactions on Image Processing (T-IP), Vol. 30, No. 1, Feb. 2021.
+Field-based Face and Expression Recognition in the Wild using Capsule Routing”, <i>IEEE
+Transactions on Image Processing (T-IP)</i>, Vol. 30, No. 1, Feb. 2021.
 
 39. [J] H. Uppal*, <b>A. Sepas-Moghaddam</b>, M. Greenspan, and A. Etemad “Depth as Attention
 for Face Representation Learning”, IEEE Transactions on Information Forensics and
