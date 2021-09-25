@@ -49,7 +49,7 @@ Multi-Level Taxonomy Based Survey”, <i>IET Biometrics</i>, vol. 9, No. 2, Mar.
 
 33. [J] <b>A. Sepas-Moghaddam</b>, F. Pereira, and P. Correia, “Light Field-Based Face Presentation
 Attack Detection: Reviewing, Benchmarking and One Step Further”, <i>IEEE
-Transaction on Information Forensics and Security (T-IFS)</i>, Vol. 13, No. 7, Jul. 2018.
+Transactions on Information Forensics and Security (T-IFS)</i>, Vol. 13, No. 7, Jul. 2018.
 
 32. [J] <b>A. Sepas-Moghaddam</b>, F. Pereira, and P. Correia, “Ear Recognition in a Light Field
 Imaging Framework: A New Perspective”, <i>IET Biometrics</i>, Vol. 7, No. 3, Apr. 2018.
@@ -97,3 +97,93 @@ Clustering” <i>International Journal of Artificial Intelligence</i>, Vol.11, N
 21. [J] M.S. Moin and <b>A. Sepas-Moghaddam</b> (<u>Equal Contribution</u>), “JPEG Compressed
 Domain Face Recognition: Different Stages and Different Features”, <i>International
 Journal of Information & Communication Technology</i>, Vol.4, No.4, Dec. 2012.
+
+Conference Papers:
+======
+
+20. [C] H. Uppal*, <b>A. Sepas-Moghaddam</b>, M. Greenspan, and A. Etemad, “Teacher-Student
+Modality Hallucination for Enhanced Face Recognition”, <i>IEEE Conference on Computer
+Vision (ICCV)</i>, virtual, Oct. 2021.
+
+19. [C] <b>A. Sepas-Moghaddam</b>, F. Pereira, and P. Correia, A. Etemad “Multi-Perspective
+LSTM for Joint Visual Representation Learning”, <i> IEEE Conference on
+Computer Vision and Pattern Recognition (CVPR)</i>, virtual, Jun. 2021.
+
+18. [C] <b>A. Sepas-Moghaddam</b>, S. Ghorbani, N. Troje, and A. Etemad, “Gait Recognition
+using Multi-Scale Partial Representation Transformation with Capsules”, <i>International
+Conference of Pattern Recognition (ICPR)</i>, Milan, Italy, Jan. 2021.
+
+17. [C] H. Uppal*, <b>A. Sepas-Moghaddam</b>, M. Greenspan, and A. Etemad, “Attention-based
+Fusion Learning for RGB-D Face Recognition”, <i>International Conference of Pattern
+Recognition (ICPR)</i>, Milan, Italy, Jan. 2021.
+
+16. [C] <b>A. Sepas-Moghaddam</b>, A. Etemad, P. Correia, and F. Pereira, “Light Field Based
+Facial Emotion Recognition Using a Bidirectional LSTM with Attention Mechanism”,
+<i>International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</i>,
+Barcelona, Spain, May 2020.
+
+15. [C] <b>A. Sepas-Moghaddam</b>, A. Etemad, P. Correia, and F. Pereira, “A Deep Framework
+for Facial Emotion Recognition Using Light Field Images”, <i>International Conference on
+Affective Computing and Intelligent Interaction (ACII)</i>, Cambridge, United Kingdom,
+Sep. 2019.
+
+14. [C] <b>A. Sepas-Moghaddam</b>, P. Correia, K. Nasrollahi, T. Moeslund, and F. Pereira, “Light
+Field Based Face Recognition via a Fused Deep Representation”, <i>IEEE International
+Workshop on Machine Learning for Signal Processing (MLSP)</i>, Aalborg, Denmark, Sep.
+2018.
+
+13. [C] <b>A. Sepas-Moghaddam</b>, F. Pereira, and P. Correia, “Ear Presentation Attack Detection:
+Benchmarking Study with First Lenslet Light Field Database”, <i>European Signal
+Processing Conference (EUSIPCO)</i>, Rome, Italy, Sep. 2018.
+
+12. [C] <b>A. Sepas-Moghaddam</b>, P. Correia, and F. Pereira, “Light Field Local Binary Patterns
+Description for Face Recognition”, <i>IEEE International Conference on Image Processing
+(ICIP)</i>, Beijing, China, Sep. 2017.
+
+11. [C] <b>A. Sepas-Moghaddam</b>, V. Chiesa, P. Correia, F. Pereira, and J. Dugelay “The ISTEURECOM
+Light Field Face Database”, <i>International Workshop on Biometrics and
+Forensics (IWBF)</i>, Coventry, UK, Apr. 2017.
+
+10. [C] <b>A. Sepas-Moghaddam</b>, P. Correia, and F. Pereira, “Light Field Denoising: Exploiting
+the Redundancy of an Epipolar Sequence Representation”, <i>3DTV-Conference: The True
+Vision-Capture, Transmission and Display of 3D Video (3DTV)</i>, Hamburg, Germany,
+Jul. 2016.
+
+9. [C] <b>A. Sepas-Moghaddam</b>, A.Arabshahi, D.Yazdani, and M.Dehshibi, “A Novel Hybrid
+Algorithm for Optimization in Multimodal Dynamic Environments”, <i>International
+Conference on Hybrid Intelligent Systems (HIS)</i>, Puna, India, Dec. 2012.
+
+8. [C] M. Ramin*, <b>A. Sepas-Moghaddam</b>, P.Ahmadvand*, and M. Dehshibi, “Counting the
+Number of Cells in Immunocytochemical Microscopic Images Using Genetic Algorithm”,
+<i>International Conference on Hybrid Intelligent Systems (HIS)</i>, Puna, India, Dec. 2012.
+
+7. [C] D. Yazdani, A. Arabshahi, <b>A. Sepas-Moghaddam</b>, and M. Dehshibi, “A Multilevel
+Thresholding Method for Image Segmentation Using a Novel Hybrid Intelligent Approach”,
+<i>International Conference on Hybrid Intelligent Systems (HIS)</i>, Puna, India,
+Dec. 2012.
+
+6. [C] P. Ahmadvand*, M. Ramin*, <b>A. Sepas-Moghaddam</b>, and P. Ahmadvand, “Expression
+of Antigens in Immunocytochemical Images Utilizing an Image Analysis Method”, <i>IEEE
+Mediterranean Electrotechnical Conference (MELECON)</i>, Yasmine, Tunisia, Mar. 2012.
+
+5. [C] <b>A. Sepas-Moghaddam</b>, M.S. Moin and H.R. Rashidy-Kanan,“A New Preselection
+Method for Face Recognition in JPEG Domain Based on Face Segmentation”, <i>IEEE
+International Conference on Signal and Image Processing Applications (ICSIPA)</i>, KL,
+Malaysia, Nov. 2011.
+
+4. [C] M.S. Moin, <b>A. Sepas-Moghaddam</b> and H.R. Rashidy-Kanan, “A Low Complexity
+JPEG Domain Face Recognition Approach Using Low Frequency Coefficients”, <i>International
+Conference on Information, Communications and Signal Processing (ICICSP)</i>,
+Singapore, Singapore, Dec. 2011.
+
+3. [C] <b>A. Sepas-Moghaddam</b> and and H. Rashidi,“A Novel Method to Measure Comprehensive
+Complexity of Software Based on the Metrics Statistical Model,” <i>European
+Symposium on Computer Modeling and Simulation (EMS)</i>, Pisa, Italy, Nov. 2010.
+
+2. [C] <b>A. Sepas-Moghaddam</b>, M.S. Moin and H.R. Kanan,“A Low Complexity and Efficient
+Face Recognition Approach in JPEG Compressed Domain Using Quantized Coefficients,”
+<i>International Symposium on Telecommunications (IST)</i>, Tehran, Iran, Dec. 2010.
+
+1. [C] <b>A. Sepas-Moghaddam</b> and M.S. Moin, “An Efficient Method for JPEG Compressed
+Domain Face Recognition,” <i>Machine Vision and Image Processing Conference (MVIP)</i>,
+Isfahan, Iran, Aug. 2010.
