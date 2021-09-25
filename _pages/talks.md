@@ -5,12 +5,12 @@ permalink: /services/
 author_profile: true
 ---
 
-Conference Organization
+Conference organization
 ======
 * Publicity co-chair, [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)
 * Program co-chair, [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html).
 
-External dissertation/thesis committee member:
+External dissertation/thesis committee member
 ======
 
 * External Examiner, M.Sc. Defence Exams, (Instituto Superior Técnico, University of Lisbon) 2020– 2021
