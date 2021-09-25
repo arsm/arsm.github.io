@@ -15,7 +15,7 @@ Teaching
 * Undergrad. <b>Image Processing</b>, Lecturer, Shamsipour University, Spring’13, Spring’14, Spring’15.
 * Undergrad. <b>Multimedia Systems</b>, Lecturer, Shamsipour University, Fall’14, Fall’15.
 
-Thesis (Co-)Supervision
+Thesis (co-)supervision
 ======
 
 * Ongoing: (Unofficial Co-Supervision)

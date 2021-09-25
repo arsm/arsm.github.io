@@ -25,7 +25,7 @@ News
 * One [paper](https://ieeexplore.ieee.org/abstract/document/9229117) accepted to IEEE Transactions on Biometrics, Behavior, and Identity Science (October 2020)
 
 
-Research Interests
+Research interests
 ======
 I have broad interests in computer vision and machine learning with special focus on:
 

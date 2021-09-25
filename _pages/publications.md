@@ -7,7 +7,7 @@ author_profile: true
 
 Individuals identified with * are my (co-)supervised Highly Qualified Personnel (HQP)
 
-Under Review
+Under review
 ======
 44. [J] <b>A. Sepas-Moghaddam</b>, F. Pereira, P. Correia, and A. Etemad “Multi-perspective Joint Recurrent Representation Learning”, Submitted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</i>.
 
@@ -17,7 +17,7 @@ Under Review
 
 41. [J] <b>A. Sepas-Moghaddam</b> and A. Etemad “Deep Gait Recognition: A Review”, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</i>, <u>revision submitted</u>.
 
-Journal Papers
+Journal papers
 ======
 
 40. [J] <b>A. Sepas-Moghaddam</b>, A. Etemad, F. Pereira, and P. Correia “CapsField: Light
@@ -98,7 +98,7 @@ Clustering” <i>International Journal of Artificial Intelligence</i>, Vol.11, N
 Domain Face Recognition: Different Stages and Different Features”, <i>International
 Journal of Information & Communication Technology</i>, Vol.4, No.4, Dec. 2012.
 
-Conference Papers
+Conference papers
 ======
 
 20. [C] H. Uppal*, <b>A. Sepas-Moghaddam</b>, M. Greenspan, and A. Etemad, “Teacher-Student
