@@ -13,10 +13,10 @@ Conference organization
 External dissertation/thesis committee member
 ======
 
-* External examiner, M.Sc. thesis, Instituto Superior Técnico, University of Lisbon, 2020– 2021
+* External examiner, one MSc thesis, Instituto Superior Técnico, University of Lisbon, 2020–2021
 * 4th Year Queens open house examiner, ECE Department, 2020
-* Examiner on over 10 B.Sc. thesis, Shamsipour University, 2013– 2015
-* Examiner on 3 B.Sc. thesis, Shahid Rajaee University, 2015
+* Examiner on over 10 BSc theses, Shamsipour University, 2013–2015
+* Examiner on 3 BSc theses, Shahid Rajaee University, 2015
 
 
 Reviewer for journals

@@ -18,13 +18,13 @@ Teaching
 Thesis (co-)supervision
 ======
 
-* Ongoing: (Unofficial Co-Supervision)
+* <b>Ongoing: (Unofficial Co-Supervision)</b>
   * Mojtaba Kolahdoozi, PhD student, Queen’s University
   * Leyla Khaleghi, MASc student, Queen’s University
-* Completed: (Unofficial Co-Supervision)
+* <b>Completed: (Unofficial Co-Supervision)</b>
   * Hardik Uppal, MASc, Queen’s University, 2021
   * Daniel Sousa, MASc, University of Lisbon, 2018
-* Completed: (Official Supervision)
+* <b>Completed: (Official Supervision)</b>
   * Yasin Bayazidi, BSc, Shamsipour University, 2015
   * Abbas Akbar-Abadi, BSc, Shamsipour University, 2015
   * Hamid Rezaee, BSc, Shamsipour University, 2014
