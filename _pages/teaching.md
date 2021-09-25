@@ -32,7 +32,5 @@ Thesis (co-)supervision
   * Payam Ahmadvand and Marjan Ramin (Joint Thesis), BSc, Rajaee University, 2012 ([HIS'21](https://ieeexplore.ieee.org/abstract/document/6421331), [MELECON'12](https://ieeexplore.ieee.org/abstract/document/6196573))
   * Mohammad Zarei, BSc, Shamsipour University, 2012
 
-
-   One  accepted to <i>ICCV'21</i> (July 2021).
 * I joined Socure as a senior computer vision data scientist (May 2021).
 * One [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Sepas-Moghaddam_Multi-Perspective_LSTM_for_Joint_Visual_Representation_Learning_CVPR_2021_paper.html)
