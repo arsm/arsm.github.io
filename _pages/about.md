@@ -19,10 +19,10 @@ News
 * One [paper](https://arxiv.org/abs/2104.02424) accepted at <i>ICCV'21</i> (July 2021).
 * I joined Socure as a senior computer vision data scientist (May 2021).
 * One [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Sepas-Moghaddam_Multi-Perspective_LSTM_for_Joint_Visual_Representation_Learning_CVPR_2021_paper.html) accepted at <i>CVPR'21</i> (February 2021).
-* One [Paper](https://ieeexplore.ieee.org/abstract/document/9330625) accepted to <i>IEEE Transactions on Information Forensics and Security</i> (February 2021)
+* One [paper](https://ieeexplore.ieee.org/abstract/document/9330625) accepted to <i>IEEE Transactions on Information Forensics and Security</i> (February 2021)
 * One [paper](https://ieeexplore.ieee.org/abstract/document/9343707) accepted to <i>IEEE Transactions on Image Processing</i> (January 2021).
 * Two papers [(paper1)](https://ieeexplore.ieee.org/abstract/document/9412517) and [(paper2)](https://ieeexplore.ieee.org/abstract/document/9412514) presentaed at <i>ICPR'21</i> (January 2021)
-* One [Paper](https://ieeexplore.ieee.org/abstract/document/9249026) accepted to <i>IEEE Transactions on Information Forensics and Security</i> (November 2020)
+* One [paper](https://ieeexplore.ieee.org/abstract/document/9249026) accepted to <i>IEEE Transactions on Information Forensics and Security</i> (November 2020)
 * One [paper](https://ieeexplore.ieee.org/abstract/document/9229117) accepted to <i>IEEE Transactions on Biometrics, Behavior, and Identity</i> Science (October 2020)
 
 
