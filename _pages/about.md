@@ -16,7 +16,7 @@ News
 * <b>Call for Papers</b>: [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html) call for contribution to novel methods, innovations, and broader implications of self-supervised learning (SSL) for processing human-related data. Paper submission deadline: Friday, November 12, 2021.
 * I will be acting as a publicity co-chair of [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)  (September 2021).
 * I serve as a program co-chair of [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
-* One [paper](https://arxiv.org/abs/2104.02424) accepted at <i>ICCV'21</i> (July 2021).
+* One [paper](https://openaccess.thecvf.com/content/ICCV2021/html/Uppal_Teacher-Student_Adversarial_Depth_Hallucination_To_Improve_Face_Recognition_ICCV_2021_paper.html) accepted at <i>ICCV'21</i> (July 2021).
 * I joined Socure as a senior computer vision data scientist (May 2021).
 * One [paper](https://openaccess.thecvf.com/content/CVPR2021/html/Sepas-Moghaddam_Multi-Perspective_LSTM_for_Joint_Visual_Representation_Learning_CVPR_2021_paper.html) accepted at <i>CVPR'21</i> (February 2021).
 * One [paper](https://ieeexplore.ieee.org/abstract/document/9330625) accepted to <i>IEEE Transactions on Information Forensics and Security</i> (February 2021)
