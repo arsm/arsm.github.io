@@ -12,7 +12,7 @@ Under review
 
 43. [C] M. Kolahdoozi*, <b>A. Sepas-Moghaddam</b> and A. Etemad “Learning Face Structure Trees for Expression Recognition”, Submitted to <i>Conference on Automatic Face and Gesture Recognition</i>.
 
-42. [C] L. Khaleghi*, <b>A. Sepas-Moghaddam</b>, J. Marshall, and A. Etemad “MuViHand: Multi-View Video-Based 3D Hand Pose Estimation”, Submitted to <i>IEEE Transactions on Artificial Intelligence</i>.
+42. [J] L. Khaleghi*, <b>A. Sepas-Moghaddam</b>, J. Marshall, and A. Etemad “MuViHand: Multi-View Video-Based 3D Hand Pose Estimation”, Submitted to <i>IEEE Transactions on Artificial Intelligence</i>.
 
 41. [J] <b>A. Sepas-Moghaddam</b> and A. Etemad “Deep Gait Recognition: A Review”, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</i>, <u>revision submitted</u>.
 
