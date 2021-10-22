@@ -25,8 +25,8 @@ Thesis (co-)supervision
   * Hardik Uppal, MASc, Queen’s University, 2021 ([ICCV'21](https://arxiv.org/abs/2104.02424), [IEEE T-IFS'21](https://ieeexplore.ieee.org/abstract/document/9330625), [ICPR'20](https://ieeexplore.ieee.org/abstract/document/9412514)) 
   * Gaganjot Singh, MEng, Queen’s University, 2019
   * Daniel Sousa, MASc, University of Lisbon, 2018
-* <b>Completed: (Official Supervision)</b>
-  * Yasin Bayazidi, BSc, Shamsipour University, 2015
+* <b>Completed: (Supervision)</b>
+  * Yasin Izadi, BSc, Shamsipour University, 2015
   * Abbas Akbar-Abadi, BSc, Shamsipour University, 2015
   * Hamid Rezaee, BSc, Shamsipour University, 2014
   * Payam Ahmadvand and Marjan Ramin (Joint Thesis), BSc, Rajaee University, 2012 ([HIS'12](https://ieeexplore.ieee.org/abstract/document/6421331), [MELECON'12](https://ieeexplore.ieee.org/abstract/document/6196573))
