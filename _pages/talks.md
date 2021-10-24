@@ -21,12 +21,12 @@ External dissertation/thesis committee member
 
 Reviewer for journals
 ======
-* Nature Scientific Reports
 * IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Biometrics, Behavior, and Identity Science
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
 * IEEE Transactions on Neural Systems and Rehabilitation Engineering
 * IEEE Transactions on Circuits and Systems for Video Technology
+* Nature Scientific Reports
 * IET Biometrics
 * IET Computer Vision
 * IET Image Processing
