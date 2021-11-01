@@ -98,7 +98,7 @@ Journal of Information & Communication Technology</i>, Vol.4, No.4, Dec. 2012.
 Conference papers
 ======
 
-21. [C] M. Kolahdoozi*, <b>A. Sepas-Moghaddam</b> and A. Etemad “Learning Face Structure Trees for Expression Recognition”, Submitted to <i>Conference on Automatic Face and Gesture Recognition</i>.
+21. [C] M. Kolahdoozi*, <b>A. Sepas-Moghaddam</b> and A. Etemad “Learning Face Structure Trees for Expression Recognition <i>Conference on Automatic Face and Gesture Recognition</i>, virtual, Dec. 2021.
 
 20. [C] H. Uppal*, <b>A. Sepas-Moghaddam</b>, M. Greenspan, and A. Etemad, “Teacher-Student
 Modality Hallucination for Enhanced Face Recognition”, <i>IEEE Conference on Computer
