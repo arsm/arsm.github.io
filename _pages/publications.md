@@ -10,8 +10,6 @@ Individuals identified with * are my (co-)supervised Highly Qualified Personnel 
 Under review
 ======
 
-43. [C] M. Kolahdoozi*, <b>A. Sepas-Moghaddam</b> and A. Etemad “Learning Face Structure Trees for Expression Recognition”, Submitted to <i>Conference on Automatic Face and Gesture Recognition</i>.
-
 42. [J] L. Khaleghi*, <b>A. Sepas-Moghaddam</b>, J. Marshall, and A. Etemad “MuViHand: Multi-View Video-Based 3D Hand Pose Estimation”, Submitted to <i>IEEE Transactions on Artificial Intelligence (T-AI)</i>.
 
 41. [J] <b>A. Sepas-Moghaddam</b> and A. Etemad “Deep Gait Recognition: A Review”, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</i>, <u>revision submitted</u>.
@@ -99,6 +97,8 @@ Journal of Information & Communication Technology</i>, Vol.4, No.4, Dec. 2012.
 
 Conference papers
 ======
+
+21. [C] M. Kolahdoozi*, <b>A. Sepas-Moghaddam</b> and A. Etemad “Learning Face Structure Trees for Expression Recognition”, Submitted to <i>Conference on Automatic Face and Gesture Recognition</i>.
 
 20. [C] H. Uppal*, <b>A. Sepas-Moghaddam</b>, M. Greenspan, and A. Etemad, “Teacher-Student
 Modality Hallucination for Enhanced Face Recognition”, <i>IEEE Conference on Computer
