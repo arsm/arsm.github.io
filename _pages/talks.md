@@ -22,6 +22,8 @@ External dissertation/thesis committee member
 Reviewer for journals
 ======
 * IEEE Transactions on Information Forensics and Security
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Artificial Intelligence
 * IEEE Transactions on Biometrics, Behavior, and Identity Science
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
 * IEEE Transactions on Neural Systems and Rehabilitation Engineering
