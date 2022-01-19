@@ -7,8 +7,10 @@ author_profile: true
 
 Conference organization
 ======
+* Program co-chair, [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)
 * Publicity co-chair, [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)
-* Program co-chair, [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html).
+* Area chair, [International Conference on Pattern Recognition (ICPR'22)](https://www.icpr2022.com/)
+
 
 External dissertation/thesis committee member
 ======

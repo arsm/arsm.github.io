@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Individuals identified with * are my (co-)supervised Highly Qualified Personnel (HQP)
+Individuals identified with * are my (co-)supervised Highly Qualified Personnels (HQPs)
 
 Under review
 ======
