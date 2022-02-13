@@ -12,10 +12,9 @@ Under review
 
 42. [J] L. Khaleghi*, <b>A. Sepas-Moghaddam</b>, J. Marshall, and A. Etemad “MuViHand: Multi-View Video-Based 3D Hand Pose Estimation”, <i>IEEE Transactions on Artificial Intelligence (T-AI)</i>, <u>revision submitted</u>.
 
-41. [J] <b>A. Sepas-Moghaddam</b> and A. Etemad “Deep Gait Recognition: A Review”, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</i>, <u>revision submitted</u>.
-
 Journal papers
 ======
+41. [J] <b>A. Sepas-Moghaddam</b> and A. Etemad “Deep Gait Recognition: A Review”, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</i>, Feb. 2022.
 
 40. [J] <b>A. Sepas-Moghaddam</b>, A. Etemad, F. Pereira, and P. Correia “CapsField: Light
 Field-based Face and Expression Recognition in the Wild using Capsule Routing”, <i>IEEE
