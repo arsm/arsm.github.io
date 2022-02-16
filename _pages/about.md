@@ -13,7 +13,7 @@ I have been working as a senior computer vision data scientist at [Socure](https
 
 News
 ======
-* One [paper](https://arxiv.org/pdf/2102.09546.pdf) accepted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (February 2022)
+* One [paper](https://ieeexplore.ieee.org/document/9714177) accepted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (February 2022)
 * I serve as an area chair for [International Conference on Pattern Recognition (ICPR'22)](https://www.icpr2022.com/)  (January 2022).
 * One paper accepted at <i>FG'21</i> (December 2021).
 * <b>Call for Papers</b>: [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html) call for contribution to novel methods, innovations, and broader implications of self-supervised learning (SSL) for processing human-related data. Paper submission deadline: Friday, November 12, 2021.
