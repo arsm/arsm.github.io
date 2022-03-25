@@ -15,7 +15,7 @@ News
 ======
 * One [paper](https://ieeexplore.ieee.org/document/9714177) accepted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (February 2022)
 * I serve as an area chair for [International Conference on Pattern Recognition (ICPR'22)](https://www.icpr2022.com/)  (January 2022).
-* One [paper] (https://ieeexplore.ieee.org/abstract/document/9666986) accepted at <i>FG'21</i> (December 2021).
+* One [paper](https://ieeexplore.ieee.org/abstract/document/9666986) accepted at <i>FG'21</i> (December 2021).
 * <b>Call for Papers</b>: [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html) call for contribution to novel methods, innovations, and broader implications of self-supervised learning (SSL) for processing human-related data. Paper submission deadline: Friday, November 12, 2021.
 * I will be acting as a publicity co-chair of [European Workshop on Visual Information Processing (EUVIP'22)](https://euvip2022.org/)  (September 2021).
 * I serve as a program co-chair of [AAAI 2022 Workshop on Human-Centric Self-Supervised Learning (HC-SSL @ AAAI'22)](https://hcssl.github.io/AAAI-22/pages/call-for-papers.html)  (August 2021).
