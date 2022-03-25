@@ -19,8 +19,8 @@ Thesis (co-)supervision
 ======
 
 * <b>Ongoing: (Unofficial Co-Supervision)</b>
-  * Mojtaba Kolahdoozi, PhD student, Queen’s University ([FG'21]( https://ieeexplore.ieee.org/abstract/document/9666986)) 
-  * Leyla Khaleghi, MASc student, Queen’s University ([IEEE T-AI'21](https://arxiv.org/abs/2109.11747)) 
+  * Mojtaba Kolahdoozi, PhD student, Queen’s University ([FG'21]( https://ieeexplore.ieee.org/abstract/document/9666986), [IEEE T-AI'22](https://)) 
+  * Leyla Khaleghi, MASc student, Queen’s University ([IEEE T-AI'22](https://arxiv.org/abs/2109.11747)) 
 * <b>Completed: (Unofficial Co-Supervision)</b>
   * Hardik Uppal, MASc, Queen’s University, 2021 ([ICCV'21](https://arxiv.org/abs/2104.02424), [IEEE T-IFS'21](https://ieeexplore.ieee.org/abstract/document/9330625), [ICPR'20](https://ieeexplore.ieee.org/abstract/document/9412514)) 
   * Gaganjot Singh, MEng, Queen’s University, 2019
