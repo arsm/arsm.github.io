@@ -30,6 +30,7 @@ Reviewer for journals
 * IEEE Transactions on Systems, Man and Cybernetics: Systems
 * IEEE Transactions on Neural Systems and Rehabilitation Engineering
 * IEEE Transactions on Circuits and Systems for Video Technology
+* IEEE Transactions on Instrumentation and Measurement
 * Nature Scientific Reports
 * IET Biometrics
 * IET Computer Vision
