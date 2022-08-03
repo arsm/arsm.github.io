@@ -9,12 +9,12 @@ Individuals identified with * are my (co-)supervised Highly Qualified Personnels
 
 Under review
 ======
-42. [J] M. Kolahdoozi*, <b>A. Sepas-Moghaddam</b> and A. Etemad “FaceTopoNet: Facial Expression Recognition using Face Topology Learning”, <i>IEEE Transactions on Artificial Intelligence (T-AI)</i>.
-
-42. [J] L. Khaleghi*, <b>A. Sepas-Moghaddam</b>, J. Marshall, and A. Etemad “MuViHand: Multi-View Video-Based 3D Hand Pose Estimation”, <i>IEEE Transactions on Artificial Intelligence (T-AI)</i>, <u>revision submitted</u>.
+43. [J] M. Kolahdoozi*, <b>A. Sepas-Moghaddam</b> and A. Etemad “FaceTopoNet: Facial Expression Recognition using Face Topology Learning”, <i>IEEE Transactions on Artificial Intelligence (T-AI)</i>.
 
 Journal papers
 ======
+42. [J] L. Khaleghi*, <b>A. Sepas-Moghaddam</b>, J. Marshall, and A. Etemad “MuViHand: Multi-View Video-Based 3D Hand Pose Estimation”, <i>IEEE Transactions on Artificial Intelligence (T-AI)</i>, Aug. 2022.
+
 41. [J] <b>A. Sepas-Moghaddam</b> and A. Etemad “Deep Gait Recognition: A Review”, <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)</i>, Feb. 2022.
 
 40. [J] <b>A. Sepas-Moghaddam</b>, A. Etemad, F. Pereira, and P. Correia “CapsField: Light
