@@ -23,6 +23,7 @@ External dissertation/thesis committee member
 
 Reviewer for journals
 ======
+* IEEE Transactions on Pattern Analysis and Machine Intelligence
 * IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Neural Networks and Learning Systems
 * IEEE Transactions on Artificial Intelligence
