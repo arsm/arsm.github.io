@@ -13,6 +13,7 @@ I have been working as a senior computer vision data scientist at [Socure](https
 
 News
 ======
+* One [paper](https://arxiv.org/abs/2209.06322) accepted to <i>IEEE Transactions on Artificial Intelligence</i> (September 2022)
 * One [paper](https://arxiv.org/abs/2109.11747) accepted to <i>IEEE Transactions on Artificial Intelligence</i> (August 2022)
 * One [paper](https://ieeexplore.ieee.org/document/9714177) accepted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (February 2022)
 * I serve as an area chair for [International Conference on Pattern Recognition (ICPR'22)](https://www.icpr2022.com/)  (January 2022).
