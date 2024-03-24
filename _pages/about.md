@@ -15,6 +15,7 @@ Before moving to industry, I held a postdoctoral fellow position at [Ambient Int
 
 News
 ======
+* I joined Ericsson as a senior research scientist (February 2023).
 * One [paper](https://arxiv.org/abs/2209.06322) accepted to <i>IEEE Transactions on Artificial Intelligence</i> (September 2022)
 * One [paper](https://arxiv.org/abs/2109.11747) accepted to <i>IEEE Transactions on Artificial Intelligence</i> (August 2022)
 * One [paper](https://ieeexplore.ieee.org/document/9714177) accepted to <i>IEEE Transactions on Pattern Analysis and Machine Intelligence</i> (February 2022)
