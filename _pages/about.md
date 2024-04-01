@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 In my current role as a Senior Applied Research Scientist at [Ericsson LynkAI](https://www.lynkai.com/),  I am actively engaged in the digital human project, aimed at dismantling language barriers and facilitating seamless communication across diverse linguistic landscapes. Our cutting-edge technology enables real-time translation, empowering each participant to express themselves naturally in their native tongue, seamlessly translated for others.
-Previously, I worked as a senior computer vision data scientist at [Socure](https://www.socure.com/) from 2021 until June 2022. During this tenure, my focus revolved around leveraging deep learning methodologies in computer vision and biometrics across both edge and cloud computing environments. Additionally, I contributed to the analysis of machine learning datasets and models, emphasizing fairness, privacy, and bias considerations.
+Previously, I worked as a senior computer vision data scientist at [Socure](https://www.socure.com/) from 2021 until June 2022. During this tenure, my focus revolved around leveraging deep learning methodologies in computer vision and biometrics across both edge and cloud computing environments.
 Before moving to industry, I held a postdoctoral fellow position at [Ambient Intelligence & Interactive Machines Laboratory (Aiim Lab)](http://www.aiimlab.com/index.html), Queen's University, where I engaged in theoretical and applied machine learning for computer vision. I received my PhD with distinction and honour from University of Lisbon in January 2019. My PhD work focused on exploiting the breakthrough in multi-view imaging technologies and deep learning techniques towards developing more advanced security and surveillance systems.
 
 
