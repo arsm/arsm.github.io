@@ -29,5 +29,4 @@ Thesis (co-)supervision
   * Yasin Izadi, BSc, Shamsipour University, 2015
   * Abbas Akbar-Abadi, BSc, Shamsipour University, 2015
   * Hamid Rezaee, BSc, Shamsipour University, 2014
-  * Payam Ahmadvand and Marjan Ramin (Joint Thesis), BSc, Rajaee University, 2012 ([HIS'12](https://ieeexplore.ieee.org/abstract/document/6421331), [MELECON'12](https://ieeexplore.ieee.org/abstract/document/6196573))
   * Mohammad Zarei, BSc, Shamsipour University, 2012
